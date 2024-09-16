@@ -1,0 +1,111 @@
+.solution-details {
+    padding: 40px;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .back-button-container {
+    float: right;
+    margin-right: 20px;
+  }
+  
+  .back-button {
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 550px;
+  }
+  
+  .back-button:hover {
+    background-color: #23527c;
+  }
+  
+  .solution-details h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .solution-details h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
+  .solution-details p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #777;
+  }
+  
+  .solution-details code {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .solution-details pre {
+    overflow: auto;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+  }
+  
+  .solution-details #problem-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .solution-details #problem-statement {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .solution-details #problem-statement-description {
+    font-size: 16px;
+    color: #777;
+  }
+  
+  .solution-details #problem-code {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .solution-details #problem-algorithm {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .solution-details #problem-algorithm-description {
+    font-size: 16px;
+    color: #777;
+  }
+  
+  .solution-details #problem-time-complexity {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .solution-details #problem-time-complexity-description {
+    font-size: 16px;
+    color: #777;
+  }
+  
+  .solution-details #problem-conclusion {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .solution-details #problem-conclusion-description {
+    font-size: 16px;
+    color: #777;
+  }

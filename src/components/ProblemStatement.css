@@ -1,0 +1,48 @@
+/* src/components/ProblemStatement.css */
+
+.problem-statement {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    max-width: 600px;
+    margin: 1rem auto;
+  }
+  
+  .problem-statement h3 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .problem-statement p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  .problem-statement pre {
+    background-color: #f5f5f5;
+    padding: 1rem;
+    border-radius: 4px;
+    overflow-x: auto; /* Allows horizontal scrolling for long code lines */
+    color: #333;
+    font-size: 0.875rem;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .problem-statement code {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .problem-statement figure {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .problem-statement img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
