@@ -46,7 +46,7 @@ function App() {
         <header>
           <span style={{ float: 'left', fontSize: '30px', color: 'black' }}>
             <pre>SIMPLELEET 
-              <small> by Tanvee Kariya</small>♥️
+              <small> by Tanvee Kariya</small>
             </pre>
           </span>
         </header>
